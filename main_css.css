@@ -13,8 +13,8 @@ body{
 }
 
 .warpbutton{
-    width:400px;
-    height:66px;
+    width:80%;
+    height:20%;
     border-radius: 20%;
     margin-bottom: 10px;
 }
